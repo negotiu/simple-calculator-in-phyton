@@ -1,0 +1,8 @@
+print("kalkulačka:")
+pcislo = float(input("Zadejte první číslo: "))
+dcislo = float(input("Zadejte druhé číslo: "))
+print("součet je:" , pcislo + dcislo)
+print("rozdíl je:" , pcislo - dcislo)
+print("součin je:" , pcislo * dcislo)
+print("podíl je:" , pcislo / dcislo)
+input()
